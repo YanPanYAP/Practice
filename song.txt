@@ -1,3 +1,2 @@
-helo song
-yes
-let's go
+Hello song!
+Yes, let's go!
